@@ -10,6 +10,7 @@ Paper list of 3D detetction, keep updating!
 - [2016](#2016)
 
 ## 2021
+- <a name="M3DSSD"></a>M3DSSD: Monocular 3D Single Stage Object Detector [[CVPR2021](https://arxiv.org/abs/2103.13164)]
 - <a name="CaDDN"></a>Categorical Depth Distribution Network for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.01100)]
 
 ## 2020
