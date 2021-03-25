@@ -20,7 +20,7 @@ Paper list of 3D detetction, keep updating!
 - <a name="RAR-Net"></a>Reinforced Axial Refinement Network for Monocular 3D Object Detection [[ECCV2020](https://arxiv.org/abs/2008.13748)]
 - <a name='Kinematic'></a>Kinematic 3D Object Detection in Monocular Video [[ECCV2020](https://arxiv.org/abs/2007.09548)][[Pytorch](https://github.com/garrickbrazil/kinematic3d)]
 - <a name="RTM3D"></a>RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[ECCV2020](https://arxiv.org/abs/2001.03343)][[Pytorch](https://github.com/Banconxuan/RTM3D)]
-- <a name="SMOKE"></a>SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation [[CVPRW2020](https://arxiv.org/pdf/2002.10111.pdf)][[Pytorch][https://github.com/lzccccc/SMOKE]]
+- <a name="SMOKE"></a>SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation [[CVPRW2020](https://arxiv.org/pdf/2002.10111.pdf)][[Pytorch](https://github.com/lzccccc/SMOKE)]
 - <a name="D4LCN"></a>Learning Depth-Guided Convolutions for Monocular 3D Object Detection [[CVPRW2020](https://arxiv.org/abs/1912.04799)][[Pytorch](https://github.com/dingmyu/D4LCN)]
 - <a name="MonoPair"></a>MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships [[CVPR2020](https://arxiv.org/abs/2003.00504)]
 - <a name="pseudo-LiDAR_e2e"></a>End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [[CVPR2020](https://arxiv.org/abs/2004.03080)][[Pytorch](https://github.com/mileyan/pseudo-LiDAR_e2e)]
