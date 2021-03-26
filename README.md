@@ -29,6 +29,7 @@ Paper list of 3D detetction, keep updating!
 - <a name="pseudo-LiDAR_e2e"></a>End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [[CVPR2020](https://arxiv.org/abs/2004.03080)][[Pytorch](https://github.com/mileyan/pseudo-LiDAR_e2e)]
 - <a name="Decoupled-3D"></a>Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation [[AAAI2020](https://arxiv.org/abs/2002.01619)]
 - <a name="OACV"></a>Object-Aware Centroid Voting for Monocular 3D Object Detection [[IROS2020](https://arxiv.org/abs/2007.09836)]
+- <a name="ForeSeE"></a>Task-Aware Monocular Depth Estimation for 3D Object Detection [[AAAI2020(oral)](https://arxiv.org/abs/1909.07701)][[Pytorch](https://github.com/WXinlong/ForeSeE)]
 
 ## 2019
 - <a name="Mono3DPLiDAR"></a>Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud [[ICCVW2019](https://arxiv.org/abs/1903.09847)]
@@ -37,11 +38,13 @@ Paper list of 3D detetction, keep updating!
 - <a name="M3D-RPN"></a>M3D-RPN: Monocular 3D Region Proposal Network for Object Detection [[ICCV2019(Oral)](https://arxiv.org/abs/1907.06038)][[Pytorch](https://github.com/garrickbrazil/M3D-RPN)]
 <a name="MonoPSR"></a>Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction [[CVPR2019](https://arxiv.org/abs/1904.01690)][[Pytorch](https://github.com/kujason/monopsr)]
 - <a name="FQNet"></a>Deep fitting degree scoring network for monocular 3d object detection [[CVPR2019](https://arxiv.org/abs/1904.12681)]
+- <a name="ROI-10D"></a>ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape [[CVPR2019](https://arxiv.org/abs/1812.02781)]
 - <a name="MonoGRNet"></a>MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization [[AAAI2019(oral)](https://arxiv.org/abs/1811.10247)][[Tensorflow](https://github.com/Zengyi-Qin/MonoGRNet)]
 - <a name="OFT-Net"></a>Orthographic feature transform for monocular 3d object detection [[BMVC2019](https://bmvc2019.org/wp-content/uploads/papers/0328-paper.pdf)][[Pytorch](https://github.com/tom-roddick/oft)]
 
 ## 2018
 - <a name="Multi-Fusion"></a>Multi-Level Fusion based 3D Object Detection from Monocular Images [[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.pdf)][[Pytorch](https://github.com/abbyxxn/maskrcnn-benchmark-3d)]
+- <a name="Mono3D++"></a>Mono3D++: Monocular 3D Vehicle Detection with Two-Scale 3D Hypotheses and Task Priors [[AAAI2018](https://arxiv.org/abs/1901.03446)]
 
 ## 2017
 - <a name="Deep3DBox"></a>3D Bounding Box Estimation Using Deep Learning and Geometry [[CVPR2017](https://arxiv.org/abs/1612.00496)][[Pytorch](https://github.com/skhadem/3D-BoundingBox)][[Tensorflow](https://github.com/smallcorgi/3D-Deepbox)]
