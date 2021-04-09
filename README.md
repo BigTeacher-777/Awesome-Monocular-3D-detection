@@ -10,6 +10,9 @@ Paper list of 3D detetction, keep updating!
 - [2016](#2016)
 
 ## 2021
+- <a name="MonoFlex"></a>Objects are Different: Flexible Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2104.02323)]
+- <a name="GrooMeD-NMS"></a>GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.17202)]
+- <a name="DDMP-3D"></a>Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.16470)]
 - <a name="MonoRUn"></a>MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation [[CVPR2021](https://arxiv.org/abs/2103.12605)]
 - <a name="M3DSSD"></a>M3DSSD: Monocular 3D Single Stage Object Detector [[CVPR2021](https://arxiv.org/abs/2103.13164)]
 - <a name="CaDDN"></a>Categorical Depth Distribution Network for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.01100)]
