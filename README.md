@@ -1,5 +1,5 @@
-# Awesome Monocular 3D detection
-Paper list of 3D detetction, keep updating!
+# Awesome Monocular 3D Detection
+Paper list of 3D detection, keep updating!
 
 ## Contents
 - [2021](#2021)
@@ -10,11 +10,11 @@ Paper list of 3D detetction, keep updating!
 - [2016](#2016)
 
 ## 2021
-- <a name="MonoFlex"></a>Objects are Different: Flexible Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2104.02323)]
-- <a name="GrooMeD-NMS"></a>GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.17202)]
-- <a name="DDMP-3D"></a>Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.16470)]
-- <a name="MonoRUn"></a>MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation [[CVPR2021](https://arxiv.org/abs/2103.12605)]
-- <a name="M3DSSD"></a>M3DSSD: Monocular 3D Single Stage Object Detector [[CVPR2021](https://arxiv.org/abs/2103.13164)]
+- <a name="MonoFlex"></a>Objects are Different: Flexible Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2104.02323)][[Pytorch](https://github.com/zhangyp15/MonoFlex)]
+- <a name="GrooMeD-NMS"></a>GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.17202)][[Pytorch](https://github.com/abhi1kumar/groomed_nms)]
+- <a name="DDMP-3D"></a>Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.16470)][[Pytorch](https://github.com/fudan-zvg/DDMP)]
+- <a name="MonoRUn"></a>MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation [[CVPR2021](https://arxiv.org/abs/2103.12605)][[Pytorch](https://github.com/tjiiv-cprg/MonoRUn)]
+- <a name="M3DSSD"></a>M3DSSD: Monocular 3D Single Stage Object Detector [[CVPR2021](https://arxiv.org/abs/2103.13164)][[Code](https://github.com/mumianyuxin/M3DSSD)]
 - <a name="CaDDN"></a>Categorical Depth Distribution Network for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.01100)]
 - <a name="visualDet3D"></a>Ground-aware Monocular 3D Object Detection for Autonomous Driving [[RA-L](https://arxiv.org/abs/2102.00690)][[Pytorch](https://github.com/Owen-Liuyuxuan/visualDet3D)]
  
@@ -44,6 +44,7 @@ Paper list of 3D detetction, keep updating!
 - <a name="ROI-10D"></a>ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape [[CVPR2019](https://arxiv.org/abs/1812.02781)]
 - <a name="MonoGRNet"></a>MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization [[AAAI2019(oral)](https://arxiv.org/abs/1811.10247)][[Tensorflow](https://github.com/Zengyi-Qin/MonoGRNet)]
 - <a name="OFT-Net"></a>Orthographic feature transform for monocular 3d object detection [[BMVC2019](https://bmvc2019.org/wp-content/uploads/papers/0328-paper.pdf)][[Pytorch](https://github.com/tom-roddick/oft)]
+- <a name="SS3D"></a>SS3D: Monocular 3D Object Detection and Box Fitting Trained End-to-End Using Intersection-over-Union Loss [[Paper](https://arxiv.org/abs/1906.08070)]
 
 ## 2018
 - <a name="Multi-Fusion"></a>Multi-Level Fusion based 3D Object Detection from Monocular Images [[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.pdf)][[Pytorch](https://github.com/abbyxxn/maskrcnn-benchmark-3d)]
