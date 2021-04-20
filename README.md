@@ -10,6 +10,7 @@ Paper list of 3D detetction, keep updating!
 - [2016](#2016)
 
 ## 2021
+- <a name="monodle"></a>Delving into Localization Errors for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.16237)]
 - <a name="MonoFlex"></a>Objects are Different: Flexible Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2104.02323)]
 - <a name="GrooMeD-NMS"></a>GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.17202)]
 - <a name="DDMP-3D"></a>Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.16470)]
@@ -39,11 +40,15 @@ Paper list of 3D detetction, keep updating!
 - <a name="MonoDIS"></a>Disentangling monocular 3d object detection [[ICCV2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.pdf)]
 - <a name="AM3D"></a>Accurate Monocular Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving [[ICCV2019](https://arxiv.org/abs/1903.11444)]
 - <a name="M3D-RPN"></a>M3D-RPN: Monocular 3D Region Proposal Network for Object Detection [[ICCV2019(Oral)](https://arxiv.org/abs/1907.06038)][[Pytorch](https://github.com/garrickbrazil/M3D-RPN)]
+- <a name="MVRA"></a>Multi-View Reprojection Architecture for Orientation Estimation [[ICCVW2019](https://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Choi_Multi-View_Reprojection_Architecture_for_Orientation_Estimation_ICCVW_2019_paper.pdf)]
 <a name="MonoPSR"></a>Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction [[CVPR2019](https://arxiv.org/abs/1904.01690)][[Pytorch](https://github.com/kujason/monopsr)]
 - <a name="FQNet"></a>Deep fitting degree scoring network for monocular 3d object detection [[CVPR2019](https://arxiv.org/abs/1904.12681)]
 - <a name="ROI-10D"></a>ROI-10D: Monocular Lifting of 2D Detection to 6D Pose and Metric Shape [[CVPR2019](https://arxiv.org/abs/1812.02781)]
+- <a name="GS3D"></a>GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving [[CVPR2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_GS3D_An_Efficient_3D_Object_Detection_Framework_for_Autonomous_Driving_CVPR_2019_paper.html)]
 - <a name="MonoGRNet"></a>MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization [[AAAI2019(oral)](https://arxiv.org/abs/1811.10247)][[Tensorflow](https://github.com/Zengyi-Qin/MonoGRNet)]
 - <a name="OFT-Net"></a>Orthographic feature transform for monocular 3d object detection [[BMVC2019](https://bmvc2019.org/wp-content/uploads/papers/0328-paper.pdf)][[Pytorch](https://github.com/tom-roddick/oft)]
+- <a name="Shift R-CNN"></a>Shift R-CNN: Deep Monocular 3D Object Detection with Closed-Form Geometric Constraints [[TIP2019](https://arxiv.org/abs/1905.09970)]
+- <a name="SS3D"></a>Monocular 3d object detection and box fitting trained end-to-end using intersection-over-union loss [[Arxiv2019](https://arxiv.org/abs/1906.08070)]
 
 ## 2018
 - <a name="Multi-Fusion"></a>Multi-Level Fusion based 3D Object Detection from Monocular Images [[CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.pdf)][[Pytorch](https://github.com/abbyxxn/maskrcnn-benchmark-3d)]
