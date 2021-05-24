@@ -20,7 +20,7 @@ Paper list of 3D detetction, keep updating!
 - <a name="visualDet3D"></a>Ground-aware Monocular 3D Object Detection for Autonomous Driving [[RA-L](https://arxiv.org/abs/2102.00690)][[Pytorch](https://github.com/Owen-Liuyuxuan/visualDet3D)]
  
 ## 2020
--<a name="UR3D"></a>Distance-Normalized Unified Representation for Monocular 3D Object Detection [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740086.pdf)]
+- <a name="UR3D"></a>Distance-Normalized Unified Representation for Monocular 3D Object Detection [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740086.pdf)]
 - <a name="MonoDR"></a>Monocular Differentiable Rendering for Self-Supervised 3D Object Detection [[ECCV2020](https://arxiv.org/abs/2009.14524)]
 - <a name="DA-3Ddet"></a>Monocular 3d object detection via feature domain adaptation [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540018.pdf)]
 - <a name="MoVi-3D"></a>Towards generalization across depth for monocular 3d object detection [[ECCV2020](https://arxiv.org/abs/1912.08035)]
