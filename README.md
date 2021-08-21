@@ -10,6 +10,8 @@ Paper list of 3D detetction, keep updating!
 - [2016](#2016)
 
 ## 2021
+- <a name="DD3D"></a>Is Pseudo-Lidar needed for Monocular 3D Object detection [[ICCV2021](https://arxiv.org/pdf/2108.06417.pdf)]
+- <a name="GUPNet"></a>Geometry Uncertainty Projection Network for Monocular 3D Object Detection [[ICCV2021](https://arxiv.org/pdf/2107.13774.pdf)]
 - <a name="neighbor-voting"></a>Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting [[ACMMM2021](https://arxiv.org/pdf/2107.02493.pdf)]
 - <a name="MonoEF"></a>Monocular 3D Object Detection: An Extrinsic Parameter Free Approach [[CVPR2021](https://arxiv.org/abs/2106.15796?context=cs)]
 - <a name="monodle"></a>Delving into Localization Errors for Monocular 3D Object Detection [[CVPR2021](https://arxiv.org/abs/2103.16237)][[Pytorch](https://github.com/xinzhuma/monodle)]
