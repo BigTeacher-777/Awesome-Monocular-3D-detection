@@ -1,8 +1,8 @@
-# Awesome Monocular 3D detection
-Paper list of 3D detetction, keep updating!
+# Awesome Monocular 3D Detection
+Paper list of 3D detection, keep updating!
 
 ## Contents
-- [2021](#2021)
+- [2021](#2021)git sta
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
