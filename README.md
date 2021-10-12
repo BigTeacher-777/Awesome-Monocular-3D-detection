@@ -14,6 +14,11 @@ Paper list of 3D detetction, keep updating!
 - <a name='MVM3Det'></a>MVM3Det: A Novel Method for Multi-view Monocular 3D Detection [[ICRA2022](https://arxiv.org/pdf/2109.10473.pdf)]
 
 ## 2021
+- <a name="DFR-Net"></a>The Devil Is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/html/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.html)]
+- <a name="AutoShape"></a>AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AutoShape_Real-Time_Shape-Aware_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf)]
+- <a name="analysis"></a>Are we Missing Confidence in Pseudo-LiDAR Methods for Monocular 3D Object Detection? [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Simonelli_Are_We_Missing_Confidence_in_Pseudo-LiDAR_Methods_for_Monocular_3D_ICCV_2021_paper.pdf)]
+- <a name="Gated3D"></a>Gated3D: Monocular 3D Object Detection From Temporal Illumination Cues [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Julca-Aguilar_Gated3D_Monocular_3D_Object_Detection_From_Temporal_Illumination_Cues_ICCV_2021_paper.pdf)]
+- <a name="MonoRCNN"></a>Geometry-based Distance Decomposition for Monocular 3D Object Detection [[ICCV2021](https://arxiv.org/abs/2104.03775)]
 - <a name="DD3D"></a>Is Pseudo-Lidar needed for Monocular 3D Object detection [[ICCV2021](https://arxiv.org/pdf/2108.06417.pdf)]
 - <a name="GUPNet"></a>Geometry Uncertainty Projection Network for Monocular 3D Object Detection [[ICCV2021](https://arxiv.org/pdf/2107.13774.pdf)][[Pytorch](https://github.com/SuperMHP/GUPNet)]
 - <a name="neighbor-voting"></a>Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting [[ACMMM2021](https://arxiv.org/pdf/2107.02493.pdf)]
