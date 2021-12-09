@@ -83,7 +83,7 @@ Paper list of 3D detetction, keep updating!
 
 # KITTI Results
 <!-- <font color=blue, size=4>val/test</font><font color=blue, size=3> (R<sub>11</sub>/R<sub>40</sub>) @ IOU=0.7</font> -->
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:5px 10px;word-break:normal;}
@@ -91,7 +91,7 @@ Paper list of 3D detetction, keep updating!
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-nrix{border-color:inherit;text-align:center;vertical-align:middle}
-</style>
+</style> -->
 <table class="tg">
 <thead>
   <tr>
@@ -188,7 +188,7 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">19.07</td>
     <td class="tg-nrix">CVPR2021</td>
   </tr>
-  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr>
     <td class="tg-9wq8"><a href="#AM3D">AM3D</a></td>
     <td class="tg-nrix">Depth</td>     
