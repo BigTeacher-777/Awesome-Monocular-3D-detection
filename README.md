@@ -119,7 +119,7 @@ Paper list of 3D detetction, keep updating!
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9wq8"><a href="#M3D-RPN">M3D-RPN</a></td>
+    <td class="tg-9wq8" nowrap="nowrap"><a href="#M3D-RPN">M3D-RPN</a></td>
     <td class="tg-nrix">None</td>
     <td class="tg-nrix">14.76</td>
     <td class="tg-nrix">9.71</td>
