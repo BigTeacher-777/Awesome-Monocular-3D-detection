@@ -92,7 +92,7 @@ Paper list of 3D detetction, keep updating!
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-nrix{border-color:inherit;text-align:center;vertical-align:middle}
 </style> -->
-<table class="tg" style='text-align:center'>
+<table class="tg" style="text-align:center">
 <thead>
   <tr>
     <th class="tg-9wq8" rowspan="2">Method</th>
