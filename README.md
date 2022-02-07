@@ -16,6 +16,7 @@ Paper list of 3D detetction, keep updating!
 ## 2022 
 - <a id='MonoDistill'></a>**[MonoDistill]** MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[ICLR2022](https://arxiv.org/pdf/2201.10830.pdf)][[Pytorch](https://github.com/monster-ghost/MonoDistill)]
 - <a id='MonoCon'></a>**[MonoCon]** Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [[AAAI2022](https://arxiv.org/pdf/2112.04628.pdf)][[Pytorch](https://github.com/Xianpeng919/MonoCon)]
+- <a id='ImVoxelNet'></a>**[ImVoxelNet]** ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[WACV2022](https://arxiv.org/pdf/2106.01178.pdf)]
 
 
 ## 2021
