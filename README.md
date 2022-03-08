@@ -14,6 +14,7 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2022 
+- <a id='Pseudo-Stereo'></a>**[Pseudo-Stereo]** Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving [[CVPR2022](https://arxiv.org/pdf/2203.02112.pdf)][[Pytorch](https://github.com/revisitq/Pseudo-Stereo-3D)]
 - <a id='MonoDistill'></a>**[MonoDistill]** MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[ICLR2022](https://arxiv.org/pdf/2201.10830.pdf)][[Pytorch](https://github.com/monster-ghost/MonoDistill)]
 - <a id='MonoCon'></a>**[MonoCon]** Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [[AAAI2022](https://arxiv.org/pdf/2112.04628.pdf)][[Pytorch](https://github.com/Xianpeng919/MonoCon)]
 - <a id='ImVoxelNet'></a>**[ImVoxelNet]** ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[WACV2022](https://arxiv.org/pdf/2106.01178.pdf)][[Pytorch](https://github.com/saic-vul/imvoxelnet)]
@@ -210,6 +211,20 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">22.88</td>
     <td class="tg-nrix">19.47</td>
     <td class="tg-nrix">ICCV2021</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="#Pseudo-Stereo">Pseudo-Stereo</a></td>     
+    <td class="tg-nrix">Depth</td>     
+    <td class="tg-nrix">23.74</td>
+    <td class="tg-nrix">17.74</td>
+    <td class="tg-nrix">15.14</td>
+    <td class="tg-nrix">35.18</td>
+    <td class="tg-nrix">24.15</td>
+    <td class="tg-nrix">20.35</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">CVPR2022</td>
   </tr>
   <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr>
