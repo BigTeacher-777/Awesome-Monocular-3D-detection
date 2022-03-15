@@ -16,12 +16,14 @@ Paper list of 3D detetction, keep updating!
 ## 2022 
 - <a id='Pseudo-Stereo'></a>**[Pseudo-Stereo]** Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving [[CVPR2022](https://arxiv.org/pdf/2203.02112.pdf)][[Pytorch](https://github.com/revisitq/Pseudo-Stereo-3D)]
 - <a id='MonoDistill'></a>**[MonoDistill]** MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[ICLR2022](https://arxiv.org/pdf/2201.10830.pdf)][[Pytorch](https://github.com/monster-ghost/MonoDistill)]
+- <a id='WeakM3D'></a>**[WeakM3D]** WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection [[ICLR2022](https://openreview.net/pdf?id=ahi2XSHpAUZ)]
 - <a id='MonoCon'></a>**[MonoCon]** Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection [[AAAI2022](https://arxiv.org/pdf/2112.04628.pdf)][[Pytorch](https://github.com/Xianpeng919/MonoCon)]
 - <a id='ImVoxelNet'></a>**[ImVoxelNet]** ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[WACV2022](https://arxiv.org/pdf/2106.01178.pdf)][[Pytorch](https://github.com/saic-vul/imvoxelnet)]
 
 
 ## 2021
 - <a id="PCT"></a>**[PCT]** Progressive Coordinate Transforms for Monocular 3D Object Detection [[NeurIPS2021](https://arxiv.org/pdf/2108.05793.pdf)][[Pytorch](https://github.com/amazon-research/progressive-coordinate-transforms)]
+- <a id="DeepLineEncoding"></a>**[DeepLineEncoding]** Deep Line Encoding for Monocular 3D Object Detection and Depth Prediction [[BMVC2021](https://www.bmvc2021-virtualconference.com/assets/papers/0299.pdf)][[Pytorch](https://github.com/cnexah/DeepLineEncoding)]
 - <a id="DFR-Net"></a>**[DFR-Net]** The Devil Is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/html/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.html)]
 - <a id="AutoShape"></a>**[AutoShape]** AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AutoShape_Real-Time_Shape-Aware_Monocular_3D_Object_Detection_ICCV_2021_paper.pdf)][[Pytorch](https://github.com/zongdai/AutoShape)][[Paddle](https://github.com/zongdai/AutoShape)]
 - <a id="analysis"></a>**[pseudo-analysis]** Are we Missing Confidence in Pseudo-LiDAR Methods for Monocular 3D Object Detection? [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Simonelli_Are_We_Missing_Confidence_in_Pseudo-LiDAR_Methods_for_Monocular_3D_ICCV_2021_paper.pdf)]
