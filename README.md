@@ -171,7 +171,7 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">15.76</td>
     <td class="tg-nrix">ICLR2022</td>
   </tr>
-  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr>
     <td class="tg-9wq8"><a href="#AM3D">AM3D</a></td>
     <td class="tg-nrix">Depth</td>     
@@ -227,7 +227,7 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">20.35</td>
     <td class="tg-nrix">CVPR2022</td>
   </tr>
-  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr>
     <td class="tg-9wq8" nowrap="nowrap"><a href="#M3D-RPN">M3D-RPN</a></td>
     <td class="tg-nrix">None</td>
