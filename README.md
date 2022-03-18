@@ -13,7 +13,8 @@ Paper list of 3D detetction, keep updating!
 - [KITTI Results](#KITTI-Results)
 
 # Paper List
-## 2022 
+## 2022
+- <a id='MonoJSG'></a>**[MonoJSG]** MonoJSG: Joint Semantic and Geometric Cost Volume for Monocular 3D Object Detection [[CVPR2022](https://arxiv.org/pdf/2203.08563.pdf)]
 - <a id='Pseudo-Stereo'></a>**[Pseudo-Stereo]** Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving [[CVPR2022](https://arxiv.org/pdf/2203.02112.pdf)][[Pytorch](https://github.com/revisitq/Pseudo-Stereo-3D)]
 - <a id='MonoDistill'></a>**[MonoDistill]** MonoDistill: Learning Spatial Features for Monocular 3D Object Detection [[ICLR2022](https://arxiv.org/pdf/2201.10830.pdf)][[Pytorch](https://github.com/monster-ghost/MonoDistill)]
 - <a id='WeakM3D'></a>**[WeakM3D]** WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection [[ICLR2022](https://openreview.net/pdf?id=ahi2XSHpAUZ)]
@@ -112,14 +113,11 @@ Paper list of 3D detetction, keep updating!
     AP<sub>3D</sub>|<sub>R<sub>40</sub></th>
     <th class="tg-nrix" colspan="3">Val,      
     AP<sub>3D</sub>|<sub>R<sub>40</sub></th>
-      <th class="tg-nrix" colspan="3">Val, 
-    AP<sub>3D</sub>|<sub>R<sub>11</sub></th>
+<!--       <th class="tg-nrix" colspan="3">Val, 
+    AP<sub>3D</sub>|<sub>R<sub>11</sub></th> -->
     <th class="tg-nrix" rowspan="2">Reference</th>
   </tr>
   <tr>
-    <th class="tg-nrix">Easy</th>
-    <th class="tg-nrix">Mod.</th>
-    <th class="tg-nrix">Hard</th>
     <th class="tg-nrix">Easy</th>
     <th class="tg-nrix">Mod.</th>
     <th class="tg-nrix">Hard</th>
@@ -130,6 +128,17 @@ Paper list of 3D detetction, keep updating!
 </thead>
 <tbody>
   <tr>
+    <td class="tg-9wq8"><a href="#MonoPSR">MonoPSR</a></td>     
+    <td class="tg-nrix">Lidar</td>     
+    <td class="tg-nrix">10.76</td>
+    <td class="tg-nrix">7.25</td>
+    <td class="tg-nrix">5.85</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">CVPR2019</td>
+  </tr>
+  <tr>
     <td class="tg-9wq8"><a href="#MonoRUn">MonoRUn</a></td>     
     <td class="tg-nrix">Lidar</td>     
     <td class="tg-nrix">19.65</td>
@@ -138,9 +147,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">20.02</td>
     <td class="tg-nrix">14.65</td>
     <td class="tg-nrix">12.61</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
     <td class="tg-nrix">CVPR2021</td>
   </tr>
   <tr>
@@ -152,10 +158,18 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">23.57</td>
     <td class="tg-nrix">16.31</td>
     <td class="tg-nrix">13.84</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
     <td class="tg-nrix">CVPR2021</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="#MonoDistill">MonoDistill</a></td>     
+    <td class="tg-nrix">Lidar</td>     
+    <td class="tg-nrix">22.97</td>
+    <td class="tg-nrix">16.03</td>
+    <td class="tg-nrix">13.60</td>
+    <td class="tg-nrix">24.31</td>
+    <td class="tg-nrix">18.47</td>
+    <td class="tg-nrix">15.76</td>
+    <td class="tg-nrix">ICLR2022</td>
   </tr>
   <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr>
@@ -167,9 +181,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">28.31</td>
     <td class="tg-nrix">15.76</td>
     <td class="tg-nrix">12.24</td>
-    <td class="tg-nrix">32.23</td>
-    <td class="tg-nrix">21.09</td>
-    <td class="tg-nrix">17.26</td>
     <td class="tg-nrix">ICCV2019</td>
     </tr>
   <tr>
@@ -181,9 +192,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">31.60</td>
     <td class="tg-nrix">16.80</td>
     <td class="tg-nrix">13.80</td>
-    <td class="tg-nrix">35.10</td>
-    <td class="tg-nrix">22.00</td>
-    <td class="tg-nrix">19.60</td>
     <td class="tg-nrix">ECCV2020</td>
   </tr>
     <tr>
@@ -195,9 +203,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">22.32</td>
     <td class="tg-nrix">16.20</td>
     <td class="tg-nrix">12.30</td>
-    <td class="tg-nrix">26.97</td>
-    <td class="tg-nrix">21.72</td>
-    <td class="tg-nrix">18.22</td>
     <td class="tg-nrix">CVPRW2020</td>
   </tr>
   <tr>
@@ -209,9 +214,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">24.81</td>
     <td class="tg-nrix">17.78</td>
     <td class="tg-nrix">14.41</td>
-    <td class="tg-nrix">28.80</td>
-    <td class="tg-nrix">22.88</td>
-    <td class="tg-nrix">19.47</td>
     <td class="tg-nrix">ICCV2021</td>
   </tr>
   <tr>
@@ -223,9 +225,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">35.18</td>
     <td class="tg-nrix">24.15</td>
     <td class="tg-nrix">20.35</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
     <td class="tg-nrix">CVPR2022</td>
   </tr>
   <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -238,9 +237,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">14.53</td>
     <td class="tg-nrix">11.07</td>
     <td class="tg-nrix">8.65</td>
-    <td class="tg-nrix">20.27</td>
-    <td class="tg-nrix">17.06</td>
-    <td class="tg-nrix">15.21</td>
     <td class="tg-nrix">ICCV2019</td>
   </tr>
   <tr>
@@ -252,9 +248,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">-</td>
     <td class="tg-nrix">-</td>
     <td class="tg-nrix">-</td>
-    <td class="tg-nrix">14.76</td>
-    <td class="tg-nrix">12.85</td>
-    <td class="tg-nrix">11.50</td>
     <td class="tg-nrix">CVPRW2020</td>
   </tr>
   <tr>
@@ -266,9 +259,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">16.28</td>
     <td class="tg-nrix">12.30</td>
     <td class="tg-nrix">10.42</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
     <td class="tg-nrix">CVPR2020</td>
   </tr>
   <tr>
@@ -280,9 +270,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">-</td>
     <td class="tg-nrix">-</td>
     <td class="tg-nrix">-</td>
-    <td class="tg-nrix">20.77</td>
-    <td class="tg-nrix">16.86</td>
-    <td class="tg-nrix">16.63</td>
     <td class="tg-nrix">ECCV2020</td>
   </tr>
   <tr>
@@ -294,9 +281,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">-</td>
     <td class="tg-nrix">-</td>
     <td class="tg-nrix">-</td>
-    <td class="tg-nrix">27.77</td>
-    <td class="tg-nrix">21.67</td>
-    <td class="tg-nrix">18.28</td>
     <td class="tg-nrix">CVPR2021</td>
   </tr>
   <tr>
@@ -308,9 +292,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">23.64</td>
     <td class="tg-nrix">17.51</td>
     <td class="tg-nrix">14.83</td>
-    <td class="tg-nrix">28.17</td>
-    <td class="tg-nrix">21.92</td>
-    <td class="tg-nrix">19.07</td>
     <td class="tg-nrix">CVPR2021</td>
   </tr>
   <tr>
@@ -322,9 +303,6 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">22.76</td>
     <td class="tg-nrix">16.46</td>
     <td class="tg-nrix">13.72</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
     <td class="tg-nrix">ICCV2021</td>
   </tr>
   <tr>
@@ -336,15 +314,8 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">26.33</td>
     <td class="tg-nrix">19.01</td>
     <td class="tg-nrix">15.98</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
-    <td class="tg-nrix">-</td>
     <td class="tg-nrix">AAAI2022</td>
   </tr>
-
-
-
-  
       
 </tbody>
 </table>
