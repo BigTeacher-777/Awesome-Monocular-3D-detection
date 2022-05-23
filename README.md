@@ -14,6 +14,7 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2022
+- <a id='MonoDDE'></a>**[MonoDDE]** Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection [[CVPR2022](https://arxiv.org/pdf/2205.09373.pdf)]
 - <a id='Homography'></a>**[Homography]** Homography Loss for Monocular 3D Object Detection [[CVPR2022](https://arxiv.org/pdf/2204.00754.pdf)]
 - <a id='Rope3D'></a>**[Rope3D]** Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task [[CVPR2022](https://arxiv.org/pdf/2203.13608.pdf)]
 - <a id='MonoDTR'></a>**[MonoDTR]** MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer [[CVPR2022](https://arxiv.org/pdf/2203.10981.pdf)][[Pytorch](https://github.com/kuanchihhuang/MonoDTR)]
@@ -318,6 +319,17 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">19.01</td>
     <td class="tg-nrix">15.98</td>
     <td class="tg-nrix">AAAI2022</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="#MonoDDE">MonoDDE</a></td>     
+    <td class="tg-nrix">None</td>     
+    <td class="tg-nrix">24.93</td>
+    <td class="tg-nrix">17.14</td>
+    <td class="tg-nrix">15.10</td>  
+    <td class="tg-nrix">26.66</td>
+    <td class="tg-nrix">19.75</td>
+    <td class="tg-nrix">16.72</td> 
+    <td class="tg-nrix">CVPR2022</td>
   </tr>
       
 </tbody>
