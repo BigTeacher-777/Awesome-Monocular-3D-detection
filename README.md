@@ -14,6 +14,8 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2022
+- <a id="DimEmbedding"></a>**[DimEmbedding]** Dimension Embeddings for Monocular 3D Object Detection [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Dimension_Embeddings_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)]
+- <a id="GeoAug"></a>**[GeoAug]** Exploring Geometric Consistency for Monocular 3D Object Detection [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Lian_Exploring_Geometric_Consistency_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)]
 - <a id='MonoDDE'></a>**[MonoDDE]** Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection [[CVPR2022](https://arxiv.org/pdf/2205.09373.pdf)]
 - <a id='Homography'></a>**[Homography]** Homography Loss for Monocular 3D Object Detection [[CVPR2022](https://arxiv.org/pdf/2204.00754.pdf)]
 - <a id='Rope3D'></a>**[Rope3D]** Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task [[CVPR2022](https://arxiv.org/pdf/2203.13608.pdf)]
