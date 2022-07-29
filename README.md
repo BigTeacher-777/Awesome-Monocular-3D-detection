@@ -14,6 +14,7 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2022
+- <a id="DfM"></a>**[DfM]**  Monocular 3D Object Detection with Depth from Motion [[ECCV2022](https://arxiv.org/pdf/2207.12988.pdf)][[Pytorch](https://github.com/Tai-Wang/Depth-from-Motion)]
 - <a id="DEVIANT"></a>**[DEVIANT]** DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/pdf/2207.10758.pdf)][[Pytorch](https://github.com/abhi1kumar/DEVIANT)]
 - <a id="DCD"></a>**[DCD]** Densely Constrained Depth Estimator for Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/pdf/2207.10047.pdf)][[Pytorch](https://github.com/BraveGroup/DCD)]
 - <a id="STMono3D"></a>**[STMono3D]** Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training [[ECCV2022](https://arxiv.org/pdf/2204.11590.pdf)]
