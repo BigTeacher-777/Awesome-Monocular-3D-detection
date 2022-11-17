@@ -14,6 +14,7 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2022
+- <a id="LPCG"></a>**[LPCG]** Lidar Point Cloud Guided Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/abs/2104.09035)][[Pytorch](https://github.com/SPengLiang/LPCG)]
 - <a id="MVC-MonoDet"></a>**[MVC-MonoDet]** Semi-Supervised Monocular 3D Object Detection by Multi-View Consistency [[ECCV2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680702.pdf)]
 - <a id="CMKD"></a>**[CMKD]** Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/abs/2211.07171)][[Pytorch](https://github.com/Cc-Hy/CMKD)]
 - <a id="DfM"></a>**[DfM]**  Monocular 3D Object Detection with Depth from Motion [[ECCV2022](https://arxiv.org/pdf/2207.12988.pdf)][[Pytorch](https://github.com/Tai-Wang/Depth-from-Motion)]
@@ -144,6 +145,29 @@ Paper list of 3D detetction, keep updating!
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-9wq8"><a href="#LPCG">LPCG</a></td>     
+    <td class="tg-nrix">Lidar+raw</td>  
+    <td class="tg-nrix">25.56</td>
+    <td class="tg-nrix">17.80</td>
+    <td class="tg-nrix">15.38</td>
+    <td class="tg-nrix">31.15</td>  
+    <td class="tg-nrix">23.42</td>
+    <td class="tg-nrix">20.60</td>
+    <td class="tg-nrix">ECCV2022</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="#CMKD">CMKD</a></td>      
+    <td class="tg-nrix">Lidar+raw</td>  
+    <td class="tg-nrix">28.55</td>
+    <td class="tg-nrix">18.69</td>
+    <td class="tg-nrix">16.77</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">-</td>
+    <td class="tg-nrix">ECCV2022</td>
+  </tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr>
     <td class="tg-9wq8"><a href="#MonoPSR">MonoPSR</a></td>     
     <td class="tg-nrix">Lidar</td>     
