@@ -14,6 +14,8 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2022
+- <a id="MVC-MonoDet"></a>**[MVC-MonoDet]** Semi-Supervised Monocular 3D Object Detection by Multi-View Consistency [[ECCV2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680702.pdf)]
+- <a id="CMKD"></a>**[CMKD]** Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/abs/2211.07171)][[Pytorch](https://github.com/Cc-Hy/CMKD)]
 - <a id="DfM"></a>**[DfM]**  Monocular 3D Object Detection with Depth from Motion [[ECCV2022](https://arxiv.org/pdf/2207.12988.pdf)][[Pytorch](https://github.com/Tai-Wang/Depth-from-Motion)]
 - <a id="DEVIANT"></a>**[DEVIANT]** DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/pdf/2207.10758.pdf)][[Pytorch](https://github.com/abhi1kumar/DEVIANT)]
 - <a id="DCD"></a>**[DCD]** Densely Constrained Depth Estimator for Monocular 3D Object Detection [[ECCV2022](https://arxiv.org/pdf/2207.10047.pdf)][[Pytorch](https://github.com/BraveGroup/DCD)]
