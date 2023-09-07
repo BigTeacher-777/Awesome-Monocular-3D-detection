@@ -15,6 +15,7 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2023
+- <a id="MonoNeRD"></a>**[MonoNeRD]** MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection [[ICCV2023](https://arxiv.org/pdf/2308.09421.pdf)][[Pytroch](https://github.com/cskkxjk/MonoNeRD)]
 - <a id="MonoATT"></a>**[MonoATT]** MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer [[CVPR2023](https://arxiv.org/abs/2303.13018)]
 - <a id="WeakMono3D"></a>**[WeakMono3D]** Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency [[CVPR2023](https://arxiv.org/pdf/2303.08686.pdf)]
 - <a id="MonoPGC"></a>**[MonoPGC]** MonoPGC: Monocular 3D Object Detection with Pixel Geometry Contexts [[ICRA2023](https://arxiv.org/pdf/2302.10549.pdf)]
