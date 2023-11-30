@@ -378,6 +378,17 @@ Paper list of 3D detetction, keep updating!
     <td class="tg-nrix">16.72</td> 
     <td class="tg-nrix">CVPR2022</td>
   </tr>
+ <tr>
+    <td class="tg-9wq8"><a href="#MonoXiver">MonoXiver</a></td>     
+    <td class="tg-nrix">None</td>     
+    <td class="tg-nrix">25.24</td>
+    <td class="tg-nrix">19.04</td>
+    <td class="tg-nrix">16.39</td>  
+    <td class="tg-nrix">30.48</td>
+    <td class="tg-nrix">22.40</td>
+    <td class="tg-nrix">19.13</td> 
+    <td class="tg-nrix">ICCV2023</td>
+  </tr>
       
 </tbody>
 </table>
