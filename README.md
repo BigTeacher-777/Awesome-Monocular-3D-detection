@@ -16,7 +16,7 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2024
-- <a id="MonoCD"></a>**[MonoCD]** MonoCD: Monocular 3D Object Detection with Complementary Depths [[CVPR2024](https://arxiv.org/pdf/2404.03181)][[Pytroch](https://github.com/elvintanhust/MonoCD)]
+- <a id="MonoCD"></a>**[MonoCD]** MonoCD: Monocular 3D Object Detection with Complementary Depths [[CVPR2024](https://arxiv.org/pdf/2404.03181)][[Pytorch](https://github.com/elvintanhust/MonoCD)]
 - <a id="DPL"></a>**[DPL]** Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2403.17387)]
 - <a id="UniMODE"></a>**[UniMODE]** UniMODE: Unified Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2402.18573)]
 - <a id="YOLOBU"></a>**[YOLOBU]** You Only Look Bottom-Up for Monocular 3D Object Detection [[RA-L2024](https://arxiv.org/pdf/2401.15319)]
