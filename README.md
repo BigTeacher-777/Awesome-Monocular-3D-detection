@@ -3,6 +3,7 @@ Paper list of 3D detetction, keep updating!
 
 ## Contents
 - [Paper List](#Paper-List)
+	- [2024](#2024)
    	- [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
@@ -14,6 +15,12 @@ Paper list of 3D detetction, keep updating!
 - [KITTI Results](#KITTI-Results)
 
 # Paper List
+## 2024
+- <a id="MonoCD"></a>**[MonoCD]** MonoCD: Monocular 3D Object Detection with Complementary Depths [[CVPR2024](https://arxiv.org/pdf/2404.03181)][[Pytroch](https://github.com/elvintanhust/MonoCD)]
+- <a id="DPL"></a>**[DPL]** Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2403.17387)]
+- <a id="UniMODE"></a>**[UniMODE]** UniMODE: Unified Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2402.18573)]
+- <a id="YOLOBU"></a>**[YOLOBU]** You Only Look Bottom-Up for Monocular 3D Object Detection [[RA-L2024](https://arxiv.org/pdf/2401.15319)]
+
 ## 2023
 - <a id="DDML"></a>**[DDML]** Depth-discriminative Metric Learning for Monocular 3D Object Detection [[NeurIPS2023](https://arxiv.org/pdf/2401.01075.pdf)]
 - <a id="MonoXiver"></a>**[MonoXiver]** Monocular 3D Object Detection with Bounding Box Denoising in 3D by Perceiver [[ICCV2023](https://arxiv.org/pdf/2304.01289.pdf)]
