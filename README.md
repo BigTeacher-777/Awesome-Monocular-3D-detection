@@ -16,6 +16,8 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2024
+- <a id="MonoWAD"></a>**[MonoWAD]** MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection [[ECCV2024](https://arxiv.org/pdf/2407.16448)][[Pytorch](https://github.com/VisualAIKHU/MonoWAD)]
+- <a id="MonoTTA"></a>**[MonoTTA]** Fully Test-Time Adaptation for Monocular 3D Object Detection [[ECCV2024](https://arxiv.org/pdf/2405.19682)][[Pytorch](https://github.com/Hongbin98/MonoTTA)]
 - <a id="MonoMAE"></a>**[MonoMAE]** MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders [[NeurIPS2024](https://arxiv.org/pdf/2405.07696)]
 - <a id="OVM3D"></a>**[OVM3D]** Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data [[NeurIPS2024](https://arxiv.org/pdf/2411.15657)]
 - <a id="MonoCD"></a>**[MonoCD]** MonoCD: Monocular 3D Object Detection with Complementary Depths [[CVPR2024](https://arxiv.org/pdf/2404.03181)][[Pytorch](https://github.com/elvintanhust/MonoCD)]
