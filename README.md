@@ -16,6 +16,8 @@ Paper list of 3D detetction, keep updating!
 
 # Paper List
 ## 2024
+- <a id="MonoMAE"></a>**[MonoMAE]** MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders [[NeurIPS2024](https://arxiv.org/pdf/2405.07696)]
+- <a id="OVM3D"></a>**[OVM3D]** Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data [[NeurIPS2024](https://arxiv.org/pdf/2411.15657)]
 - <a id="MonoCD"></a>**[MonoCD]** MonoCD: Monocular 3D Object Detection with Complementary Depths [[CVPR2024](https://arxiv.org/pdf/2404.03181)][[Pytorch](https://github.com/elvintanhust/MonoCD)]
 - <a id="DPL"></a>**[DPL]** Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2403.17387)]
 - <a id="UniMODE"></a>**[UniMODE]** UniMODE: Unified Monocular 3D Object Detection [[CVPR2024](https://arxiv.org/pdf/2402.18573)]
