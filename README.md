@@ -1,4 +1,4 @@
-# Awesome Monocular 3D detection
+# Awesome Monocular 3D Detection
 Paper list of 3D detetction, keep updating!
 
 ## Contents
